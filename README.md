@@ -2,7 +2,7 @@
 
 Free, private backup for Windows 10 and 11. Choose what to protect, choose where it goes, and Backee does the rest on a schedule, with every backup kept as a version you can go back to.
 
-**[Download the latest release](https://github.com/markticulous/Backee/releases/latest)** and open the `.msi` file. Backee is a beta (version 0.x), so expect rough edges and keep another copy of anything that matters.
+**[Download the latest release](https://github.com/markticulous/Backee/releases/latest)** and open the `.msi` file. As with any backup tool, keep another copy of anything that matters.
 
 ## What it does
 
@@ -36,8 +36,8 @@ Backee is not code-signed yet, so Windows SmartScreen may say "Windows protected
 
 Backee runs on your PC and sends your files only to the places you choose. It does not collect data about you and has no ads or tracking.
 
-- [Privacy policy](https://markticulous.github.io/support/backee-privacy.html)
-- [Terms of use](https://markticulous.github.io/support/backee-terms.html)
+- [Privacy policy](https://markticulous.com/support/backee-privacy.html)
+- [Terms of use](https://markticulous.com/support/backee-terms.html)
 
 ## Third-party software and trademarks
 
